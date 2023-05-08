@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/global-lf.blank-lheihblj",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve STWV1A3XAnuX5Gh0XNgg --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
