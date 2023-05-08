@@ -9,8 +9,6 @@
     "serve": "npx backlight@latest serve STWV1A3XAnuX5Gh0XNgg --open"
   },
   "devDependencies": {
-    "token-transformer":"0.0.23",
-    "style-dictionary":"3.8.0",
     "@divriots/dockit-core": "^0.9.4",
     "lit": "^2.2.2"
   },
