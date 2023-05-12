@@ -357,10 +357,12 @@
       }
     }
   },
+  "button": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "button"
     ]
   }
 }
