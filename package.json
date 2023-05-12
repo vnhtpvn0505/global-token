@@ -10,7 +10,7 @@
   },
   "devDependencies": {
    "token-transformer":"0.0.23",
-    "style-dictionary":"3.8.0",
+    "style-dictionary":"3.8.0"
     
   },
   "dependencies": {}

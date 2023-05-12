@@ -3,7 +3,7 @@
     "dir": "",
     "menu": [
       ["TOKENS",["tokens"]],
-      ["COMPONENTS",[]],
+      ["COMPONENTS",["buttons"]],
       ["INFRASTRUCTURE",["sd-input"]]
     ]
   }
